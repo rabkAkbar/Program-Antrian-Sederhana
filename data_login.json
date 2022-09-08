@@ -1,0 +1,22 @@
+[
+   {
+      "username": "admin",
+      "password": "admin",
+      "permission": true
+   },
+   {
+      "username": "nami",
+      "password": "nami",
+      "permission": false
+   },
+   {
+      "username": "akbar",
+      "password": "akbar",
+      "permission": false
+   },
+   {
+      "username": "pia",
+      "password": "pia",
+      "permission": false
+   }
+]
